@@ -1,0 +1,56 @@
+[
+  {
+    "teamName": "Team Alpha",
+    "leader": "Alice Johnson",
+    "description": "Responsible for organizing workshops and technical events.",
+    "members": ["John Doe", "Jane Smith", "Emily Davis"]
+  },
+  {
+    "teamName": "Team Beta",
+    "leader": "Bob Williams",
+    "description": "Handles logistics and event management during the fest.",
+    "members": ["Sam Wilson", "Sue Thomas", "Sara Brown"]
+  },
+  {
+    "teamName": "Team Gamma",
+    "leader": "Charlie Brown",
+    "description": "Focuses on marketing and outreach activities.",
+    "members": ["Mike Green", "Anna White", "Tom Black"]
+  },
+  {
+    "teamName": "Team Alpha",
+    "leader": "Alice Johnson",
+    "description": "Responsible for organizing workshops and technical events.",
+    "members": ["John Doe", "Jane Smith", "Emily Davis"]
+  },
+  {
+    "teamName": "Team Beta",
+    "leader": "Bob Williams",
+    "description": "Handles logistics and event management during the fest.",
+    "members": ["Sam Wilson", "Sue Thomas", "Sara Brown"]
+  },
+  {
+    "teamName": "Team Gamma",
+    "leader": "Charlie Brown",
+    "description": "Focuses on marketing and outreach activities.",
+    "members": ["Mike Green", "Anna White", "Tom Black"]
+  },
+  {
+    "teamName": "Team Alpha",
+    "leader": "Alice Johnson",
+    "description": "Responsible for organizing workshops and technical events.",
+    "members": ["John Doe", "Jane Smith", "Emily Davis"]
+  },
+  {
+    "teamName": "Team Beta",
+    "leader": "Bob Williams",
+    "description": "Handles logistics and event management during the fest.",
+    "members": ["Sam Wilson", "Sue Thomas", "Sara Brown"]
+  },
+  {
+    "teamName": "Team Gamma",
+    "leader": "Charlie Brown",
+    "description": "Focuses on marketing and outreach activities.",
+    "members": ["Mike Green", "Anna White", "Tom Black"]
+  }
+]
